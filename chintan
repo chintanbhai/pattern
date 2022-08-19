@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+    int a=5,i;
+    for(i=1;a>=1;a--)
+    {
+        printf("*");
+        printf("\n");
+    }
+    getch();
+}
